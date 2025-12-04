@@ -1,0 +1,15 @@
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/bin/Debug/net10.0/ERP.Reciclagem.Comercial.Application.deps.json
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/bin/Debug/net10.0/ERP.Reciclagem.Comercial.Application.dll
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/bin/Debug/net10.0/ERP.Reciclagem.Comercial.Application.pdb
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/bin/Debug/net10.0/ERP.Reciclagem.Comercial.Domain.dll
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/bin/Debug/net10.0/ERP.Reciclagem.Comercial.Domain.pdb
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Application.csproj.AssemblyReference.cache
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Application.AssemblyInfoInputs.cache
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Application.AssemblyInfo.cs
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Application.csproj.CoreCompileInputs.cache
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reci.745080F6.Up2Date
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Application.dll
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/refint/ERP.Reciclagem.Comercial.Application.dll
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Application.pdb
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Application/obj/Debug/net10.0/ref/ERP.Reciclagem.Comercial.Application.dll

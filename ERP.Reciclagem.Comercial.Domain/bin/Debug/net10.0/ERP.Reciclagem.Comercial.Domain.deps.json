@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ERP.Reciclagem.Comercial.Domain/1.0.0": {
+        "runtime": {
+          "ERP.Reciclagem.Comercial.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERP.Reciclagem.Comercial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

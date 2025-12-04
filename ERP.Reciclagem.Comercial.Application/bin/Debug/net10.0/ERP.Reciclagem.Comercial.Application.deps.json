@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ERP.Reciclagem.Comercial.Application/1.0.0": {
+        "dependencies": {
+          "ERP.Reciclagem.Comercial.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ERP.Reciclagem.Comercial.Application.dll": {}
+        }
+      },
+      "ERP.Reciclagem.Comercial.Domain/1.0.0": {
+        "runtime": {
+          "ERP.Reciclagem.Comercial.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERP.Reciclagem.Comercial.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ERP.Reciclagem.Comercial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
