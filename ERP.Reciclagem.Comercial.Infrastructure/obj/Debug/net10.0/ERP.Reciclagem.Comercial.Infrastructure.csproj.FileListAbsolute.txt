@@ -15,3 +15,4 @@
 /Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Infrastructure/obj/Debug/net10.0/refint/ERP.Reciclagem.Comercial.Infrastructure.dll
 /Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Infrastructure/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Infrastructure.pdb
 /Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Infrastructure/obj/Debug/net10.0/ref/ERP.Reciclagem.Comercial.Infrastructure.dll
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Infrastructure/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Infrastructure.sourcelink.json

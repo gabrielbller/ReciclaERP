@@ -9,3 +9,4 @@
 /Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Domain/obj/Debug/net10.0/refint/ERP.Reciclagem.Comercial.Domain.dll
 /Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Domain/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Domain.pdb
 /Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Domain/obj/Debug/net10.0/ref/ERP.Reciclagem.Comercial.Domain.dll
+/Users/gabrielbller/Documents/Pos-Graduacao/CleanCode/ReciclaERP/ERP.Reciclagem.Comercial.Domain/obj/Debug/net10.0/ERP.Reciclagem.Comercial.Domain.sourcelink.json
